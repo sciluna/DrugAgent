@@ -10,9 +10,7 @@ __pycache__/
 .env.*
 !.env.example
 
-output/
 result/
-**/output/
 **/cache/
 **/save_folder/
 **/batch_single_run/
